@@ -609,19 +609,10 @@ aslss_soc/
 │   └── scripts/
 └── runs/
     └── RUN_2026.03.17_16.04.36/
-        ├── results/
-        │   ├── synthesis/   → .v, .sdf
-        │   ├── floorplan/   → .def, .odb
-        │   ├── placement/   → .def, .odb
-        │   ├── cts/         → .def, .odb, .sdc
-        │   ├── routing/     → .def, .odb, SPEF (3 corners)
-        │   └── signoff/     → .gds, .lef, .mag, .spice
         ├── reports/
         │   ├── synthesis/   → timing/area stats
         │   ├── signoff/     → DRC, LVS, IR Drop, Antenna
         │   └── metrics.csv  → full run metrics
-        └── logs/
-            └── [detailed per-step logs]
 ```
 
 ---
