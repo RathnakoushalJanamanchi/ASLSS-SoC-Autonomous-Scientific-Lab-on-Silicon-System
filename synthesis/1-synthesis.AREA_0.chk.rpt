@@ -1,0 +1,21 @@
+
+109. Executing CHECK pass (checking for obvious problems).
+Checking module aslss_soc_top...
+Warning: Wire aslss_soc_top.\debug_valid is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [15] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [14] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [13] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [12] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [11] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [10] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [9] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [8] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [7] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [6] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [5] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [4] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [3] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [2] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [1] is used but has no driver.
+Warning: Wire aslss_soc_top.\debug_out [0] is used but has no driver.
+Found and reported 17 problems.
