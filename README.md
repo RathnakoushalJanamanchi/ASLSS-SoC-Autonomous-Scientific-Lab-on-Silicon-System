@@ -610,9 +610,9 @@ aslss_soc/
 └── runs/
     └── RUN_2026.03.17_16.04.36/
         ├── reports/
-        │   ├── synthesis/   → timing/area stats
-        │   ├── signoff/     → DRC, LVS, IR Drop, Antenna
-        │   └── metrics.csv  → full run metrics
+           ├── synthesis/   → timing/area stats
+           ├── signoff/     → DRC, LVS, IR Drop, Antenna
+           └── metrics.csv  → full run metrics
 ```
 
 ---
